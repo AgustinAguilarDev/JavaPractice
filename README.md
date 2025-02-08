@@ -2,7 +2,7 @@
 
 The expense tracker app is a simple app for registering expenses to a csv file. I developed this app to start learning Java. You can see expenses, add new expenses, and get the total amount of all expenses.
 
-[Software Demo Video](https://youtu.be/UEuQCH8vr3c)
+[Software Demo Video](https://youtu.be/GFQdj_wGNb4)
 
 ## Development Environment
 
